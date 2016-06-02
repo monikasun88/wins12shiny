@@ -1,0 +1,423 @@
+Name	Race	Class	Minion	Spell	Weapon	Rarity	Mana	Attack	Health	Spell Power	Enrage	Special	Battlecry	Taunt	Deathrattle	Windfury	Charge	Divine Shield	Summoned	Stealth	Effect
+Abomination			1	0	0	R	5	4	4	0	0	0	0	1	1	0	0	0	0	0	Deal 2 damage to ALL characters.
+Abusive Sergent			1	0	0	C	1	2	1	0	0	0	1	0	0	0	0	0	0	0	Give a minion +2 Attack this turn.
+Acidic Swamp Ooze			1	0	0	B	2	3	2	0	0	0	1	0	0	0	0	0	0	0	Destroy your opponent's weapon.
+Acolyte of Pain			1	0	0	C	3	1	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever this minion takes damage, draw a card."
+Al'Akir the Windlord		Shaman	1	0	0	L	8	3	5	0	0	0	0	1	1	1	1	1	0	0	
+Alarm-o-Bot			1	0	0	R	3	0	3	0	0	1	0	0	0	0	0	0	0	0	"At the start of your turn, swap this minion with a random one in your hand."
+Aldor Peacekeeper		Shaman	1	0	0	R	3	3	3	0	0	0	1	0	0	0	0	0	0	0	Change an enemy minion's Attack to 1.
+Alexstraza	Dragon		1	0	0	L	9	8	8	0	0	0	1	0	0	0	0	0	0	0	Set a hero's remaining Health to 15.
+Amani Berserker			1	0	0	C	2	2	3	0	1	0	0	0	0	0	0	0	0	0	+3 Attack.
+Ancestral Healing		Shaman	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Restore a minion to full Health and give it Taunt.
+Ancestral Spirit		Shaman	0	1	0	R	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Choose a minion. When that minion is destroyed, return it to the battlefield."
+Ancient Brewmaster			1	0	0	C	4	5	4	0	0	0	1	0	0	0	0	0	0	0	Return a friendly minion from the battlefield to your hand.
+Ancient Mage			1	0	0	R	4	2	5	0-2	0	0	1	0	0	0	0	0	0	0	Give adjacent minions Spell Damage +1.
+Ancient of Lore		Druid	1	0	0	E	7	5	5	0	0	1	0	0	0	0	0	0	0	0	Choose One - Draw 2 cards; or Restore 5 health.
+Ancient of War		Druid	1	0	0	E	7	5	5	0	0	1	0	0	0	0	0	0	0	0	Choose One - +5 Attack; or +5 Health and Taunt.
+Ancient Watcher			1	0	0	R	2	4	5	0	0	0	0	0	0	0	0	0	0	0	Can't Attack.
+Angry Chicken	Beast		1	0	0	R	1	1	1	0	1	0	0	0	0	0	0	0	0	0	+5 Attack.
+Animal Companion		Hunter	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Summon a random Beast Companion.
+Arathi Weaponsmith		Warrior	1	0	0	C	4	3	3	0	0	0	1	0	0	0	0	0	0	0	Equip a 2/2 weapon.
+Arcane Explosion		Mage	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to all enemy minions.
+Arcane Golem			1	0	0	R	3	4	2	0	0	0	1	0	0	0	1	0	0	0	Give your opponent a Mana Crystal.
+Arcane Intellect		Mage	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw 2 cards.
+Arcane Missles		Mage	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage randomly split among enemy characters.
+Arcane Shot		Hunter	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage.
+Arcanite Reaper		Warrior	0	0	1	B	5	5	2	0	0	0	0	0	0	0	0	0	0	0	
+Archmage			1	0	0	B	6	4	7	1	0	0	0	0	0	0	0	0	0	0	
+Archmage Antonidas		Mage	1	0	0	L	7	5	7	0	0	1	0	0	0	0	0	0	0	0	"Whenever you cast a spell, put a 'Fireball' spell into your hand."
+Argent Commander			1	0	0	R	6	4	2	0	0	0	0	0	0	0	1	1	0	0	
+Argent Protector		Paladin	1	0	0	C	2	2	2	0	0	0	1	0	0	0	0	0	0	0	Give a friendly minion Divine Shield.
+Argent Squire			1	0	0	C	1	1	1	0	0	0	0	0	0	0	0	1	0	0	
+Armorsmith		Warrior	1	0	0	R	2	1	4	0	0	1	0	0	0	0	0	0	0	0	"Whenever a friendly minion takes damage, gain 1 Armor."
+Ashbringer			0	0	1		0	5	3	0	0	0	0	0	0	0	0	0	1	0	
+Assassinate		Rogue	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy an enemy minion.
+Assassin's Blade		Rogue	0	0	1	B	5	3	4	0	0	0	0	0	0	0	0	0	0	0	
+Auchenai Soulpriest		Priest	1	0	0	R	4	3	5	0	0	1	0	0	0	0	0	0	0	0	Your cards and powers that restore Health now deal damage instead.
+Avenging Wrath		Paladin	0	1	0	E	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 8 damage randomly split among enemy characters.
+Azure Drake	Dragon		1	0	0	R	5	4	4	1	0	0	1	0	0	0	0	0	0	0	Draw a card.
+Backstab		Rogue	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to an undamaged minion.
+Baine Bloodhoof			1	0	0		0	4	5	0	0	0	0	0	0	0	0	0	1	0	
+Bane of Doom		Warrior	0	1	0	E	5	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 2 damage to a character. If that kills it, summon a random Demon."
+Baron Geddon			1	0	0	L	7	7	5	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, deal 2 damage to ALL other characters."
+Battle Axe		Warrior	0	0	1		0	2	2	0	0	0	0	0	0	0	0	0	1	0	
+Battle Rage		Warrior	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw a card for each damaged friendly character.
+Bestial Wrath		Hunter	0	1	0	E	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a Beast +2 Attack and Immune this turn.
+Betrayal		Rogue	0	1	0	C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Force an enemy minion to deal its damage to the minions next to it.
+Big Game Hunter			1	0	0	E	3	4	2	0	0	0	1	0	0	0	0	0	0	0	Destroy a minion with an Attack of 7 or more.
+Bite		Druid	0	1	0	R	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your hero +4 Attack this turn and 4 armor.
+Blade Flurry		Rogue	0	1	0	R	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy your weapon and deal its damage to all enemies.
+Blessed Champion		Paladin	0	1	0	R	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Double a minion's Attack.
+Blessing of Kings		Paladin	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion +4/+4.
+Blessing of Might		Paladin	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion +3 attack.
+Blessing of Wisdom		Paladin	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Choose a minion. Whenever it attacks, draw a card."
+Blizzard		Mage	0	1	0	R	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to all enemy minions and Freeze them.
+Blood Fury		Warlock	0	0	1		0	3	8	0	0	0	0	0	0	0	0	0	1	0	
+Blood Imp	Demon	Warrior	1	0	0	C	1	0	1	0	0	0	0	0	0	0	0	0	0	1	"At the end of your turn, give another random  friendly minion +1 Health."
+Blood Knight			1	0	0	E	3	3	3	0	0	0	1	0	0	0	0	0	0	0	All minions lose Divine Shield. Gain +3/+3 for each Shield lost.
+Bloodfen Raptor	Beast		1	0	0	B	2	3	2	0	0	0	0	0	0	0	0	0	0	0	
+Bloodlust		Shaman	0	1	0	B	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your minions + 3 Attack this turn.
+Bloodmage Thalanos			1	0	0	L	2	1	1	1	0	0	0	0	1	0	0	0	0	0	Draw a card.
+Bloodsail Corsair	Pirate		1	0	0	R	1	1	2	0	0	0	1	0	0	0	0	0	0	0	Remove 1 Durability from your opponent's weapon.
+Bloodsail Raider	Pirate		1	0	0	C	2	2	3	0	0	0	1	0	0	0	0	0	0	0	Gain Attack equal to the attack of your weapon.
+Bluegill Warrior	Murloc		1	0	0	B	2	1	1	0	0	0	0	0	0	0	1	0	0	0	
+Boar	Beast		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Booty Bay Bodyguard			1	0	0	B	5	5	4	0	0	0	0	1	0	0	0	0	0	0	
+Boulderfist Ogre			1	0	0	B	6	6	7	0	0	0	0	0	0	0	0	0	0	0	
+Brawl		Warrior	0	1	0	E	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy all minions except one. (chosen randomly)
+Cabal Shadow Priest		Priest	1	0	0	E	6	4	5	0	0	0	1	0	0	0	0	0	0	0	Take control of an enemy minion that has 2 ore less Attack.
+Cairne Bloodhoof			1	0	0	L	6	4	5	0	0	0	0	0	1	0	0	0	0	0	Summon a 4/5 Baine Bloodhoof.
+Captain Greenskin	Pirate		1	0	0	L	5	5	4	0	0	0	1	0	0	0	0	0	0	0	Give your weapon +1/+1.
+Captain's Parrot	Beast		1	0	0	E	2	1	1	0	0	0	1	0	0	0	0	0	0	0	Put a random Pirate from your deck into your hand.
+Cenarius		Druid	1	0	0	L	9	5	8	0	0	1	0	0	0	0	0	0	0	0	Choose one - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt.
+Charge			0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a friendly minion +2 Attack and Charge.
+Chillwind Yeti			1	0	0	B	4	4	5	0	0	0	0	0	0	0	0	0	0	0	
+Circle of Healing		Priest	0	1	0	C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Restore 4 health to ALL minions.
+Claw		Druid	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your hero +2 Attack this turn and 2 Armor.
+Cleave		Warrior	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to two random enemy minions.
+Cold Blood		Rogue	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion +2 Attack. Combo: +4 Attack instead.
+Coldlight Oracle	Murloc		1	0	0	R	3	2	2	0	0	0	1	0	0	0	0	0	0	0	Each player draws 2 cards.
+Coldlight Seer	Murloc		1	0	0	R	3	2	3	0	0	0	1	0	0	0	0	0	0	0	Give ALL other Murlocs +2 Health.
+Commanding Shout		Warrior	0	1	0	R	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Your minions can't be reduced below 1 Health this turn. Draw a card.
+Conceal		Rogue	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your minions Stealth until your next turn.
+Cone of Cold		Mage	0	1	0	C	4	0	0	0	0	0	0	0	0	0	0	0	0	0	"Freeze a minion and the minions next to it, and deal 1 damage to them."
+Consecration		Paladin	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to all enemies.
+Core Hound	Beast		1	0	0	B	7	9	5	0	0	0	0	0	0	0	0	0	0	0	
+Corruption		Warrior	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Choose an enemy minion. At the start of your turn, destroy it."
+Counterspell		Mage	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your opponent casts a spell, Counter it."
+Crazed Alchemist			1	0	0	R	2	2	2	0	0	0	1	0	0	0	0	0	0	0	Swap the Attack and Health of a minion.
+Cruel Taskmasker		Warrior	1	0	0	B	2	2	2	0	0	0	1	0	0	0	0	0	0	0	Deal 1 damage to a minion and give it +2 Attack.
+Cult Master			1	0	0	B	4	4	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever one of your other minions dies, draw a card."
+Dalaran Mage			1	0	0	B	3	1	4	1	0	0	0	0	0	0	0	0	0	0	
+Damaged Golem			1	0	0		0	2	1	0	0	0	0	0	0	0	0	0	1	0	
+Dark Iron Dwarf			1	0	0	C	4	4	4	0	0	0	1	0	0	0	0	0	0	0	Give a minion +2 Attack this turn.
+Darkscale Healer			1	0	0	B	5	4	5	0	0	0	1	0	0	0	0	0	0	0	Restore 2 Health to all friendly characters.
+Deadly Poison		Rogue	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your weapon +2 Attack.
+Deadly Shot		Hunter	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a random enemy minion.
+Deathwing	Dragon		1	0	0	L	10	12	12	0	0	0	1	0	0	0	0	0	0	0	Destroy all other minions and discard your hand.
+Defender			1	0	0		0	2	1	0	0	0	0	0	0	0	0	0	1	0	
+Defender of Argus			1	0	0	R	4	2	3	0	0	0	1	0	0	0	0	0	0	0	Give adjacent minions +1/+1 and Taunt.
+Defias Ringleader		Rogue	1	0	0	C	2	2	2	0	0	1	0	0	0	0	0	0	0	0	Combo: Summon a 2/1 Defias Bandit.
+Demolisher			1	0	0	R	3	1	4	0	0	1	0	0	0	0	0	0	0	0	"At the start of your turn, deal 2 damage to a random enemy."
+Demonfire		Warlock	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 2 damage to a minion. If it's a friendly Demon, give it +2/+2 instead."
+Devilsaur			1	0	0		0	5	5	0	0	0	0	0	0	0	0	0	1	0	
+Dire Wolf Alpha	Beast		1	0	0	C	2	2	2	0	0	1	0	0	0	0	0	0	0	0	Adjacent minions have +1 Attack.
+Divine Favor		Paladin	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw cards until you have as many in hand as your opponent.
+Divine Spirit		Priest	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Double a minion's Health.
+Doomguard	Demon	Warlock	1	0	0	R	5	5	7	0	0	0	1	0	0	0	1	0	0	0	Discard two random cards.
+Doomhammer		Shaman	0	0	1	E	5	2	8	0	0	0	0	0	0	1	0	0	0	0	Overload: (2)
+Doomsayer			1	0	0	E	2	0	7	0	0	1	0	0	0	0	0	0	0	0	"At the start of your turn, destroy ALL minions."
+Dragonling Mechanic			1	0	0	B	4	2	4	0	0	0	1	0	0	0	0	0	0	0	Summon a 2/1 Mechanical Dragonling.
+Drain Life		Warlock	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage. Restore 2 Health to your hero.
+Dread Corsair	Pirate		1	0	0	C	4	3	3	0	0	1	0	1	0	0	0	0	0	0	Costs (1) less per Attack of your weapon.
+Dread Infernal	Demon	Warlock	1	0	0	B	6	6	6	0	0	0	1	0	0	0	0	0	0	0	Deal 1 damage to ALL other characters.
+Druid of the Claw		Druid	1	0	0	C	5	4	4	0	0	1	0	0	0	0	0	0	0	0	Choose One - Charge; or +2 Health and Taunt.
+Druid of the Claw (bear)		Druid	1	0	0		0	4	6	0	0	0	0	1	0	0	0	0	1	0	
+Druid of the Claw (cat)		Druid	1	0	0		0	4	4	0	0	0	0	0	0	0	1	0	1	0	
+Dust Devil		Shaman	1	0	0	C	1	3	1	0	0	0	0	0	0	1	0	0	0	0	Overload: (2)
+Eaglehorn Bow		Hunter	0	0	1	R	3	3	2	0	0	1	1	0	0	0	0	0	0	0	"Whenever a Secret is revealed, gain +1 Durability."
+Earth Elemental		Shaman	1	0	0	E	5	7	8	0	0	0	0	1	0	0	0	0	0	0	Overload: (3)
+Earth Shock		Shaman	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Silence a minion, then deal 1 damage to it."
+Earthen Ring Farseer			1	0	0	C	3	3	3	0	0	0	1	0	0	0	0	0	0	0	Restore 3 Health.
+Edwin Vancleef			1	0	0	L	3	2	2	0	0	0	0	0	0	0	0	0	0	0	Combo: Gain +2/+2 for each card played earlier this turn.
+Elite Tauren Chieftan			1	0	0	L	5	5	5	0	0	0	1	0	0	0	0	0	0	0	Give both players the power to ROCK! (with a Power Cord card)
+Elven Archer			1	0	0	B	1	1	1	0	0	0	1	0	0	0	0	0	0	0	Deal 1 damage.
+Emboldener 3000			1	0	0		0	0	4	0	0	1	0	0	0	0	0	0	1	0	"At the end of your turn, give a random minion +1/+1."
+Emperor Cobra	Beast		1	0	0	R	3	2	3	0	0	1	0	0	0	0	0	0	0	0	Destroy any minion damaged by this minion.
+Equality		Paladin	0	1	0	R	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Change the Health of ALL minions to 1.
+Ethereal Arcanist		Mage	1	0	0	R	4	3	3	0	0	1	0	0	0	0	0	0	0	0	"If you control a Secret at the end of your turn, gain +2/+2."
+Eviscerate		Rogue	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage. Combo: Deal 4 damage instead.
+Execute		Warrior	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a damaged enemy minion.
+Explosive Shot		Hunter	0	1	0	R	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 5 damage to a minion and 2 damage to the adjacent ones.
+Explosive Trap		Hunter	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your hero is attacked, deal 2 damage to all enemies."
+Eye for an Eye		Paladin	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your hero takes damage,deal that much damage to the enemy hero."
+Faceless Manipulator			1	0	0	E	5	3	3	0	0	0	1	0	0	0	0	0	0	0	Choose a minion and become a copy of it.
+Faerie Dragon	Dragon		1	0	0	C	2	3	2	0	0	1	0	0	0	0	0	0	0	0	Can't be targeted by Spells of Hero Powers.
+Fan of Knives		Rogue	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to all enemy minions. Draw a card.
+Far Sight		Shaman	0	1	0	E	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw a card. That card costs (3) less.
+Felguard	Demon	Warlock	1	0	0	R	3	3	5	0	0	0	1	1	0	0	0	0	0	0	Destroy one of your Mana Crystals.
+Fen Creeper			1	0	0	B	5	3	6	0	0	0	0	1	0	0	0	0	0	0	
+Feral Spirit		Shaman	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Summon two 2/3 Spirit Wolves with Taunt. Overload: (2)
+Fiery War Axe		Warrior	0	0	1	B	2	3	2	0	0	0	0	0	0	0	0	0	0	0	
+Finkle Einhorn			1	0	0		0	3	3	0	0	0	0	0	0	0	0	0	1	0	
+Fire Elemental		Shaman	1	0	0	B	6	6	5	0	0	0	1	0	0	0	0	0	0	0	Deal 3 damage.
+Fireball		Mage	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 6 damage.
+Flame Imp	Demon	Warlock	1	0	0	C	1	3	2	0	0	0	1	0	0	0	0	0	0	0	Deal 3 damage to your hero.
+Flame of Azzinoth			1	0	0		0	2	1	0	0	0	0	0	0	0	0	0	1	0	
+Flamestrike		Mage	0	1	0	B	7	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 4 damage to all enemy minions.
+Flametongue Totem	Totem	Shaman	0	1	0	B	2	0	3	0	0	1	0	0	0	0	0	0	0	0	Adjacent minions have +2 Attack.
+Flare		Hunter	0	1	0	R	1	0	0	0	0	0	0	0	0	0	0	0	0	0	All minions lose Stealth. Destroy all enemy Secrets. Draw a card.
+Flesheating Ghoul			1	0	0	C	3	2	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever a minnion dies, gain 1 Attack."
+Force of Nature		Druid	0	1	0	E	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Summon three 2/2 Treants with Charge that die at the end of the turn.
+Forked Lightning		Shaman	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to 2 random enemy minions. Overload: (2)
+Freezing Trap		Hunter	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more."
+Frog	Beast		1	0	0		0	0	1	0	0	0	0	1	0	0	0	0	1	0	
+Frost Elemental			1	0	0	C	6	5	5	0	0	0	1	0	0	0	0	0	0	0	Freeze a character.
+Frost Nova		Mage	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Freeze all enemy minions.
+Frost Shock		Shaman	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to an enemy character and Freeze it.
+Frostbolt		Mage	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage to a character and Freeze it.
+Frostwolf Grunt			1	0	0	B	2	2	2	0	0	0	0	1	0	0	0	0	0	0	
+Frostwolf Warlord			1	0	0	B	5	4	4	0	0	0	1	0	0	0	0	0	0	0	Gaint +1/+1 for each other friendly minion on the battlefield.
+Frothing Berserker		Warrior	1	0	0	R	3	2	4	0	0	1	0	0	0	0	0	0	0	0	"Whenever a minion takes damage, gain +1 Attack."
+Gadgetzan Auctioneer			1	0	0	R	5	4	4	0	0	1	0	0	0	0	0	0	0	0	"Whenever you cast a spell, draw a card."
+Gelbin Mekkatorque			1	0	0	L	6	6	6	0	0	0	1	0	0	0	0	0	0	0	Summon an AWESOME invention.
+Gladiator's Longbow		Hunter	0	0	1	E	7	5	2	0	0	0	0	0	0	0	0	0	0	0	Your hero is Immune while attacking.
+Gnoll			1	0	0		0	2	2	0	0	0	0	1	0	0	0	0	1	0	
+Gnomish Inventor			1	0	0	B	4	2	4	0	0	0	1	0	0	0	0	0	0	0	Draw a card.
+Goldshire Footman			1	0	0	B	1	1	2	0	0	0	0	1	0	0	0	0	0	0	
+Gorehowl		Warrior	0	0	1	E	7	7	1	0	0	0	0	0	0	0	0	0	0	0	Attacking a minion costs 1 Attack instead of 1 Durability.
+Grimscale Oracle	Murloc		1	0	0	B	1	1	1	0	0	1	0	0	0	0	0	0	0	0	ALL other Murlocs have +1 Attack.
+Grommash Hellscream		Warrior	1	0	0	L	8	4	9	0	1	0	0	0	0	0	1	0	0	0	+6 Attack.
+Gruul			1	0	0	L	8	7	7	0	0	1	0	0	0	0	0	0	0	0	"At the end of each turn, gain +1/+1."
+Guardian of Kings		Paladin	1	0	0	B	7	5	6	0	0	0	1	0	0	0	0	0	0	0	Restore 6 Health to your hero.
+Gurubashi Berserker			1	0	0	B	5	2	7	0	0	1	0	0	0	0	0	0	0	0	"Whenever this minion takes damage, gain +3 Attack."
+Hammer of Wrath		Paladin	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage. Draw a card.
+Hand of Protection		Paladin	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion Divine Shield.
+Harrison Jones			1	0	0	L	5	5	4	0	0	0	1	0	0	0	0	0	0	0	Destroy your opponents weapon and draw cards equal to its Durability.
+Harvest Golem			1	0	0	C	3	2	3	0	0	0	0	0	1	0	0	0	0	0	Summon a 2/1 Damaged Golem.
+Headcrack		Rogue	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to the enemy hero. Combo: Return this to your hand next turn.
+Healing Touch		Druid	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Restore 8 Health.
+Heavy Axe			0	0	1		0	1	3	0	0	0	0	0	0	0	0	0	1	0	
+Hellfire		Warlock	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage to ALL characters.
+Heroic Strike		Warrior	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your hero +4 Attack this turn.
+Hex		Shaman	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Transform a minion into a 0/1 Frog with Taunt.
+Hogger			1	0	0	L	6	4	4	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, summon a 2/2 Gnoll with Taunt."
+Holy Fire		Priest	0	1	0	R	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 5 damage. Restore 5 Health to your hero.
+Holy Light		Paladin	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Restore 6 Health.
+Holy Nova		Priest	0	1	0	B	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage to all enemies. Restore 2 Health to all friendly characters.
+Holy Smite		Priest	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2 damage.
+Holy Wrath		Paladin	0	1	0	R	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw a card and deal damage equal to its cost.
+Homing Chicken			1	0	0		0	0	1	0	0	1	0	0	0	0	0	0	1	0	"At the start of your turn, destroy this minion and draw 3 cards."
+Houndmaster		Hunter	1	0	0	B	4	4	3	0	0	0	1	0	0	0	0	0	0	0	Give a friendly Beast +2/+2 and Taunt.
+Huffer	Beast	Hunter	1	0	0		3	4	2	0	0	0	0	0	0	0	1	0	1	0	
+Humility		Paladin	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Change a minion's Attack to 1.
+Hungry Crab	Beast		1	0	0	E	1	1	2	0	0	0	1	0	0	0	0	0	0	0	Destroy a Murloc and gain +2/+2.
+Hunter's Mark		Hunter	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Change a minion's Health to 1.
+Hyena			1	0	0		0	2	2	0	0	0	0	0	0	0	0	0	1	0	
+I Am Murloc			0	1	0		4	0	0	0	0	0	0	0	0	0	0	0	1	0	"Summon three, four, or five 1/1 Murlocs."
+Ice Barrier		Mage	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: As soon as your hero is attacked, gain 8 Armor."
+Ice Block		Mage	0	1	0	E	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your hero takes fatal damage, prevent it and become Immune this turn."
+Ice Lance			0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Freeze a character. If it was already frozen deal 4 damage instead.
+Illidan Stormrage	Demon		1	0	0	L	6	7	5	0	0	1	0	0	0	0	0	0	0	0	"Whenever you play a card, summon a 2/1 Flame of Azzinoth."
+Imp Master			1	0	0	R	3	1	5	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, deal 1 damage to this minion and summon a 1/1 Imp."
+INFERNO!		Warlock	1	0	0		2	6	6	0	0	0	0	0	0	0	0	0	1	0	
+Injured Blademaster			1	0	0	R	3	4	7	0	0	0	1	0	0	0	0	0	0	0	Deal 4 damage to HIMSELF.
+Inner Fire		Priest	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Change a minion's Attack to be equal to its Health.
+Inner Rage		Warrior	0	1	0	C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to a minion and give it +2 Attack.
+Innervate		Druid	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Gain 2 Mana Crystals this turn only.
+Ironbark Protector		Druid	1	0	0	B	8	8	8	0	0	0	0	1	0	0	0	0	0	0	
+Ironbeak Owl	Beast		1	0	0	C	2	2	1	0	0	0	1	0	0	0	0	0	0	0	Silence a minion.
+Ironforge Rifleman			1	0	0	B	3	2	2	0	0	0	1	0	0	0	0	0	0	0	Deal 1 damage.
+Ironfur Grizzly	Beast		1	0	0	B	3	3	3	0	0	0	0	1	0	0	0	0	0	0	
+Jungle Panther	Beast		1	0	0	C	3	4	2	0	0	0	0	0	0	0	0	0	0	1	
+Keeper of the Grove		Druid	1	0	0	R	4	2	4	0	0	1	0	0	0	0	0	0	0	0	Choose One - Deal 2 damage; or Silence a minion.
+Kidnapper		Rogue	1	0	0	E	6	5	3	0	0	1	0	0	0	0	0	0	0	0	Combo: Return a minion to it's owner's hand.
+Kill Command		Hunter	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 3 damage. If you have a Beast, deal 5 damage instead."
+King Krush	Beast	Hunter	1	0	0	L	9	8	8	0	0	0	0	0	0	0	1	0	0	0	
+King Mukla	Beast		1	0	0	L	3	5	5	0	0	0	1	0	0	0	0	0	0	0	Give your opponent 2 Bananas.
+Kirin Tor Mage		Mage	1	0	0	R	3	4	3	0	0	0	1	0	0	0	0	0	0	0	The next Secret you play this turn costs (0).
+Knife Juggler			1	0	0	R	2	3	2	0	0	1	0	0	0	0	0	0	0	0	"After you summon a minion, deal 1 damage to a random enemy."
+Kobold Geomancer			1	0	0	B	2	2	2	1	0	0	0	0	0	0	0	0	0	0	
+Kor'kron Elite		Warrior	1	0	0	B	4	4	3	0	0	0	0	0	0	0	1	0	0	0	
+Lava Burst		Shaman	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 5 damage. Overload: (2)
+Lay on Hands		Paladin	0	1	0	E	8	0	0	0	0	0	0	0	0	0	0	0	0	0	Restore 8 Health. Draw 3 cards.
+Leeroy Jenkins			1	0	0	L	4	6	2	0	0	0	1	0	0	0	1	0	0	0	Summon two 1/1 Whelps for your opponent.
+Leokk	Beast	Hunter	1	0	0		3	2	4	0	0	1	0	0	0	0	0	0	1	0	Other friendly minions have +1 Attack.
+Leper Gnome			1	0	0	C	1	2	1	0	0	0	0	0	1	0	0	0	0	0	Deal 2 damage to the enemy hero.
+Lightning Bolt		Shaman	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage. Overload: (1)
+Lightning Storm		Shaman	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 2-3 damage to all enemy minions. Overload: (2)
+Light's Justice		Paladin	0	0	1	R	1	1	4	0	0	0	0	0	0	0	0	0	0	0	
+Lightspawn		Priest	1	0	0	C	4	0	5	0	0	1	0	0	0	0	0	0	0	0	This minion's attack is always equal to its Health.
+Lightwarden		Priest	1	0	0	R	1	1	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever a character is healed, gain +2 Attack."
+Lightwell		Priest	1	0	0	R	2	0	5	0	0	1	0	0	0	0	0	0	0	0	"At the start of your turn, restore 3 Health to a damaged friendly character."
+Loot Hoarder			1	0	0	C	2	2	1	0	0	0	0	0	1	0	0	0	0	0	Draw a card.
+Lord Jaraxxus	Demon	Warlock	1	0	0	L	9	3	15	0	0	0	1	0	0	0	0	0	0	0	Destroy your hero and replace him with Lore Jaraxxus.
+Lord of the Arena			1	0	0	B	6	6	5	0	0	0	0	1	0	0	0	0	0	0	
+Lorewalker Cho			1	0	0	L	2	0	4	0	0	1	0	0	0	0	0	0	0	0	"Whenever a player casts a spell, put a copy into the other player's hand."
+Mad Bomber			1	0	0	C	2	3	2	0	0	0	1	0	0	0	0	0	0	0	Deal 3 damage randomly split between all other characters.
+Magma Rager			1	0	0	B	3	5	1	0	0	0	0	0	0	0	0	0	0	0	
+Malygos	Dragon		1	0	0	L	9	4	12	5	0	0	0	0	0	0	0	0	0	0	
+Mana Addict			1	0	0	R	2	1	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever you cast a spell, gain +2 Attack this turn."
+Mana Tide Totem	Totem		1	0	0	R	3	0	3	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, draw a card."
+Mana Wraith			1	0	0	R	2	2	2	0	0	1	0	0	0	0	0	0	0	0	ALL minions cost (1) more.
+Mana Wyrm			1	0	0	C	1	1	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever you cast a spell, gain +1 Attack."
+Mark of Nature			0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Choose One - Give a minion +4 Attack; or +4 Health and Taunt.
+Mark of the Wild			0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion Taunt and +2/+2.
+Mass Dispel			0	1	0	R	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Silence all enemy minions. Draw a card.
+Master of Disguise			1	0	0	R	4	4	4	0	0	0	1	0	0	0	0	0	0	0	Give a friendly minion Stealth.
+Master Swordsmith			1	0	0	R	2	1	3	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, give another random friendly minion +1 Attack."
+Millhouse Manastrom			1	0	0	L	2	4	4	0	0	0	1	0	0	0	0	0	0	0	Enemy spells cost (0) next turn.
+Mind Blast			0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 5 damage to the enemy hero.
+Mind Control			0	1	0	B	10	0	0	0	0	0	0	0	0	0	0	0	0	0	Take control of an enemy minion.
+Mind Control Tech			1	0	0	R	3	3	3	0	0	0	1	0	0	0	0	0	0	0	"If your opponent has 4 or more minions, take control of one at random."
+Mind Vision			0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Put a copy of a random card in your opponent's hand into your deck.
+Mindgames		Priest	0	1	0	E	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Put a copy of a random minion from your opponent's deck into the battlefield.
+Mirror Entity		Mage	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your opponent plays a minion, summon a copy of it."
+Mirror Image		Mage	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Summon two 2/2 minions with Taunt.
+Misdirection		Hunter	0	1	0	R	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When a character attacks your hero, instead he attacks another random character."
+Misha	Beast	Hunter	1	0	0		3	4	4	0	0	0	0	1	0	0	0	0	1	0	
+Mogu'shan Warden			1	0	0	C	4	1	7	0	0	0	0	1	0	0	0	0	0	0	
+Molten Giant			1	0	0	E	20	8	8	0	0	1	0	0	0	0	0	0	0	0	Costs (1) less for each damage your hero has taken.
+Moonfire		Druid	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage.
+Mortal Coil		Warlock	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 1 damage to a minion. If that kills it, draw a card."
+Mortal Strike		Warrior	0	1	0	R	4	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 4 damage. If you have 12 or less health, deal 6 instead."
+Mountain Giant			1	0	0	E	12	8	8	0	0	1	0	0	0	0	0	0	0	0	Costs (1) less for each other card in your hand.
+Multi-Shot		Hunter	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage to two random enemy minions.
+Murloc	Murloc		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Murloc Raider	Murloc		1	0	0	B	1	2	1	0	0	0	0	0	0	0	0	0	0	0	
+Murloc Scout	Murloc		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Murloc Tidecaller	Murloc		1	0	0	R	1	1	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever a Murloc is summoned, gain +1 Attack."
+Murloc Tidehunter	Murloc		1	0	0	B	2	2	1	0	0	0	1	0	0	0	0	0	0	0	Summon a 1/1 Murloc Scout.
+Murloc Warleader	Murloc		1	0	0	E	3	3	3	0	0	1	0	0	0	0	0	0	0	0	ALL other Murlocs have +2/+1.
+Nat Pagle			1	0	0	L	2	0	4	0	0	1	0	0	0	0	0	0	0	0	"At the start of your turn, you have a 50% chance to draw an extra card."
+Naturalize		Druid	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a minion. Your opponent draws 2 cards.
+Nightblade			1	0	0	B	5	4	4	0	0	0	1	0	0	0	0	0	0	0	Deal 3 damage to the enemy hero.
+Noble Sacrifice		Paladin	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"When an enemy attacks, summon a 2/1 Defender as the new target."
+Northshire Cleric		Priest	1	0	0	B	1	1	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever a minion is healed, draw a card."
+Nourish		Druid	0	1	0	R	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Choose One - Gain 2 Mana Crystalsl or Draw 3 cards.
+Novice Engineer			1	0	0	B	2	1	1	0	0	0	1	0	0	0	0	0	0	0	Draw a card.
+Nozdormu	Dragon		1	0	0	L	9	8	8	0	0	1	0	0	0	0	0	0	0	0	Players only have 15 seconds to take their turns.
+Oasis Snapjaw	Beast		1	0	0	B	4	2	7	0	0	0	0	0	0	0	0	0	0	0	
+Ogre Magi			1	0	0	B	4	4	4	1	0	0	0	0	0	0	0	0	0	0	
+Old Murk-Eye	Murloc		1	0	0	L	4	2	4	0	0	1	0	0	0	0	1	0	0	0	Has +1 Attack for each other Murloc on the battlefield.
+Onyxia	Dragon		1	0	0	L	9	8	8	0	0	0	1	0	0	0	0	0	0	0	Summon 1/1 Whelps until your side of the battlefield is full.
+Panther	Beast		1	0	0		0	3	2	0	0	0	0	0	0	0	0	0	1	0	
+Patient Assassin		Rogue	1	0	0	E	2	1	1	0	0	1	0	0	0	0	0	0	0	1	Destroy any minion damaged by this minion.
+Perdition's Blade		Rogue	0	0	1	R	3	2	2	0	0	0	1	0	0	0	0	0	0	0	Deal 1 damage. Combo: Deal 2 damage instead.
+Pint-Sized Summoner			1	0	0	R	2	2	2	0	0	1	0	0	0	0	0	0	0	0	The first minion you play each turn costs (1) less.
+Pit Lord	Demon	Warlock	1	0	0	E	4	5	6	0	0	0	1	0	0	0	0	0	0	0	Deal 5 damage to your hero.
+Polymorph		Mage	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Transform a minion into a 1/1 Sheep.
+Poultryizer			1	0	0		0	0	3	0	0	1	0	0	0	0	0	0	1	0	"At the start of your turn, transform a random minion into a 1/1 Chicken."
+Power of the Horde			0	1	0		0	0	0	0	0	0	0	0	0	0	0	0	1	0	Summon a random Horde Warrior.
+Power of the Wild		Druid	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Choose One- Give your minions +1/+1; or Summon a 3/2 Panther.
+Power Overwhelming		Warlock	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Give a friendly minion +4/+4 until end of turn. Then, it dies. Horribly."
+Power Word: Shield		Priest	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion +2 Health. Draw a card.
+Preparation		Rogue	0	1	0	E	0	0	0	0	0	0	0	0	0	0	0	0	0	0	The next spell you cast this turn costs (3) less.
+Priestess of Elune			1	0	0	C	6	5	4	0	0	0	1	0	0	0	0	0	0	0	Restore 4 Health to your hero.
+Prophet Velen		Priest	1	0	0	L	7	7	7	0	0	1	0	0	0	0	0	0	0	0	Double the damage and healing of your spells and Hero Power.
+Pyroblast		Mage	0	1	0	E	10	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 10 damage.
+Questing Adventurer			1	0	0	R	3	2	2	0	0	1	0	0	0	0	0	0	0	0	"Whene you play a card, gain +1/+1."
+Raging Worgen			1	0	0	C	3	3	3	0	1	0	0	0	0	0	0	0	0	0	Windfury and +1 Attack.
+Ragnaros the Firelord			1	0	0	L	8	8	8	0	0	1	0	0	0	0	0	0	0	0	"Can't Attack. At the end of your turn, deal 8 damage to a random enemy. "
+Raid Leader			1	0	0	C	3	2	2	0	0	1	0	0	0	0	0	0	0	0	Your other minions have +1 Attack.
+Rampage		Warrior	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a damage minion +3/+3.
+Ravenholdt Assassin			1	0	0	R	7	7	5	0	0	0	0	0	0	0	0	0	0	1	
+Razorfen Hunter			1	0	0	B	3	2	3	0	0	0	1	0	0	0	0	0	0	0	Summon a 1/1 Boar.
+Reckless Rocketeer			1	0	0	B	6	5	2	0	0	0	0	0	0	0	1	0	0	0	
+Redemption		Paladin	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When one of your minions dies, return it to life with 1 Health."
+Repair Bot			1	0	0		0	0	3	0	0	1	0	0	0	0	0	0	1	0	"At the end of your turn, restore 6 Health to a damaged character."
+Repentence		Paladin	0	1	0	C	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your opponent plays a minion, reduce its Health to 1."
+River Crocolisk	Beast		1	0	0	B	2	2	3	0	0	0	0	0	0	0	0	0	0	0	
+Rockbiter Weapon		Shaman	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a friendly character +3 Attack this turn.
+Rogues Do It…			0	1	0		0	0	0	0	0	0	0	0	0	0	0	0	1	0	Deal 4 damage. Draw a card.
+Sacrificial Pact		Warlock	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a Demon. Restore 5 Health to your hero.
+Sap		Rogue	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Return an enemy minion to your opponent's hand.
+Savage Roar		Druid	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your characters +2 Attack this turn.
+Savagery		Druid	0	1	0	R	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal damage equal to your hero's Attack to a minion.
+Savannah Highmane	Beast	Hunter	1	0	0	R	6	6	5	0	0	0	0	0	1	0	0	0	0	0	Summon two 2/2 Hyenas.
+Scarlet Crusader			1	0	0	C	3	3	1	0	0	0	0	0	0	0	0	1	0	0	
+Scavenging Hyena	Beast	Hunter	1	0	0	C	2	2	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever a friendly Beast dies, gain +2/+1."
+Sea Giant			1	0	0	E	10	8	8	0	0	1	0	0	0	0	0	0	0	0	Cost (1) less for each other minion on the battlefield.
+Secretkeeper			1	0	0	R	1	1	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever a Secret is played, gain +1/+1."
+Sen'jin Shieldmasta			1	0	0	B	4	3	5	0	0	0	0	1	0	0	0	0	0	0	
+Sense Demons		Warlock	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Put 2 random demons from your deck into your hand.
+Shadow Bolt		Warlock	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 4 damage to a minion.
+Shadow Madness		Priest	0	1	0	R	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Gain control of an enemy with 3 or less Attack until end of turn.
+Shadow Word: Death		Priest	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a minion with an Attack of 5 or more.
+Shadow Word: Pain		Priest	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a minion with 3 or less Attack.
+Shadowflame		Warlock	0	1	0	R	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy a friendly minion and deal its Attack damage to all enemy minions.
+Shadowform		Priest	0	1	0	E	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+Shadowstep		Rogue	0	1	0	C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Return a friendly minion to your hand. It costs (2) less.
+Shattered Sun Cleric			1	0	0	B	3	3	2	0	0	0	1	0	0	0	0	0	0	0	Give a friendly minion +1/+1.
+Sheep	Beast		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Shield Block		Warrior	0	1	0	B	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Gain 5 Armor. Draw a card.
+Shield Slam		Warrior	0	1	0	E	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to a minion for each Armor you have.
+Shieldbearer			1	0	0	C	1	0	4	0	0	0	0	1	0	0	0	0	0	0	
+Shiv		Rogue	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage. Draw a card.
+SI: 7 Agent		Rogue	1	0	0	R	3	0	0	0	0	1	0	0	0	0	0	0	0	0	Combo: Deal 2 damage.
+Silence		Priest	0	1	0	C	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Silence a minion.
+Silver Hand Knight			1	0	0	C	5	0	0	0	0	0	1	0	0	0	0	0	0	0	Summon a 2/2 Squire.
+Silverback Patriarch			1	0	0	B	3	1	4	0	0	0	0	1	0	0	0	0	0	0	
+Silvermoon Guardian			1	0	0	C	4	3	3	0	0	0	0	0	0	0	0	1	0	0	
+Sinister Strike		Rogue	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 3 damage to the enemy hero.
+Siphon Soul		Warlock	0	1	0	R	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Destory a minion. Restore 3 Health to your hero.
+Slam		Warrior	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Deal 2 damage to a minion. If it survives, draw a card."
+Snake			1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Snake Trap		Hunter	0	1	0	E	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When one of your minions is attacked, summon three 1/1 Snakes."
+Snipe		Hunter	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When your opponent plays a minion, deal 4 damage to it."
+Sorcerer's Apprentice		Mage	1	0	0	C	2	3	2	0	0	1	0	0	0	0	0	0	0	0	Your spells cost (1) less.
+Soul of the Forest		Druid	0	1	0	C	4	0	0	0	0	0	0	0	0	0	0	0	0	0	"Give your minions ""Deathrattle: Summon a 2/2 Treant."""
+Soulfire		Warlock	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 4 damage. Discard a random card.
+Southsea Captain	Pirate		1	0	0	E	3	3	3	0	0	1	0	0	0	0	0	0	0	0	Your other Pirates have +1/+1.
+Southsea Deckhand	Pirate		1	0	0	C	1	2	1	0	0	1	0	0	0	0	0	0	0	0	Has Charge while you have a weapon equipped.
+Spellbender		Mage	0	1	0	E	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target."
+Spellbreaker			1	0	0	C	4	4	3	0	0	0	1	0	0	0	0	0	0	0	Silence a minion.
+Spirit Wolf		Shaman	1	0	0		0	2	3	0	0	0	0	1	0	0	0	0	1	0	
+Spiteful Smith			1	0	0	C	5	4	6	0	1	0	0	0	0	0	0	0	0	0	Your weapon has +2 Attack.
+Sprint		Rogue	0	1	0	B	7	0	0	0	0	0	0	0	0	0	0	0	0	0	Draw 4 cards.
+Squire			1	0	0		0	2	2	0	0	0	0	0	0	0	0	0	1	0	
+Squirrel			1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Stampeding Kodo	Beast		1	0	0	R	5	3	5	0	0	0	1	0	0	0	0	0	0	0	Destroy a random enemy minion with 2 or less Attack.
+Stranglethorn Tiger	Beast		1	0	0	C	5	5	5	0	0	0	0	0	0	0	0	0	0	1	
+Starfall		Druid	0	1	0	R	5	0	0	0	0	0	0	0	0	0	0	0	0	0	Choose One - Deal 5 damage to a minion; or 2 damage to all enemy minions.
+Starfire		Druid	0	1	0	B	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 5 damage. Draw a card.
+Starving Buzzard	Beast	Hunter	1	0	0	B	2	2	1	0	0	1	0	0	0	0	0	0	0	0	"Whenever you summon a Beast, draw a card."
+Stonetusk Board	Beast		1	0	0	B	1	1	1	0	0	0	0	0	0	0	1	0	0	0	
+Stormforged Axe		Shaman	0	0	1	C	2	2	3	0	0	0	0	0	0	0	0	0	0	0	Overload: (1)
+Stormpike Commando			1	0	0	B	5	4	2	0	0	0	1	0	0	0	0	0	0	0	Deal 2 damage.
+Stormwind Champion			1	0	0	B	7	6	6	0	0	1	0	0	0	0	0	0	0	0	Your other minions have +1/+1.
+Stormwind Knight			1	0	0	B	4	2	5	0	0	0	0	0	0	0	1	0	0	0	
+Succubus	Demon	Warlock	1	0	0	B	2	4	3	0	0	0	1	0	0	0	0	0	0	0	Discard a random card.
+Summoning Portal		Warlock	1	0	0	C	4	0	4	0	0	1	0	0	0	0	0	0	0	0	"Your minions cost (2) less, but not less than 1."
+Sunfury Protector			1	0	0	R	2	2	3	0	0	0	1	0	0	0	0	0	0	0	Give adjacent minions Taunt.
+Sunwalker			1	0	0	R	6	4	5	0	0	0	0	1	0	0	0	1	0	0	
+Swipe		Druid	0	1	0	B	4	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 4 damage to an enemy and 1 damage to all other enemies.
+Sword of Justice		Paladin	0	0	1	E	3	1	5	0	0	1	0	0	0	0	0	0	0	0	"Whenever you summon a minion, give it +1/+1 and this loses 1 Durability."
+Sylvanas Windrunner			1	0	0	L	6	5	5	0	0	0	0	0	1	0	0	0	0	0	Take control of a random enemy minion.
+Tauren Warrior			1	0	0	C	3	2	3	0	1	0	0	1	0	0	0	0	0	0	+3 Attack
+Temple Enforcer		Priest	1	0	0	C	6	6	6	0	0	0	1	0	0	0	0	0	0	0	Give a friendly minion +3 Health.
+The Beast	Beast		1	0	0	L	6	9	7	0	0	0	0	0	1	0	0	0	0	0	Summon a 3/3 Finkle Einhorn for your opponent.
+The Black Knight			1	0	0	L	6	4	5	0	0	0	1	0	0	0	0	0	0	0	Destroy an enemy minion with Taunt.
+Thoughtsteal		Priest	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	Copy 2 cards from your opponent's deck and put them into your hand.
+Thrallmar Farseer			1	0	0	C	3	2	3	0	0	0	0	0	0	1	0	0	0	0	
+Timber Wolf	Beast	Hunter	1	0	0	B	1	1	1	0	0	1	0	0	0	0	0	0	0	0	Your other beasts have +1 Attack.
+Tinkmaster Overspark			1	0	0	L	3	3	3	0	0	0	1	0	0	0	0	0	0	0	Transform another random minion into a 5/5 Devilsaur or a 1/1 Squirrel.
+Tirion Fordring		Paladin	1	0	0	L	8	6	6	0	0	0	0	1	1	0	0	1	0	0	Equip a 5/3 Ashbringer.
+Totemic Might		Shaman	0	1	0	B	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Give your Totmes +2 Health.
+Tracking		Hunter	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Look at the top three cards of your deck. Draw one and discard the others.
+Treant			1	0	0		0	2	2	0	0	0	0	0	0	0	0	0	1	0	
+Treant			1	0	0		0	2	2	0	0	0	0	1	0	0	0	0	1	0	
+Treant			1	0	0		0	2	2	0	0	0	0	0	0	0	1	0	1	0	
+Truesilver Champion		Paladin	0	0	1	B	4	4	2	0	0	1	0	0	0	0	0	0	0	0	"Whenever your hero attacks, restore 2 health."
+Tundra Rhino	Beast	Hunter	1	0	0	B	5	2	5	0	0	0	0	0	0	0	0	0	0	0	Your Beasts have charge.
+Twilight Drake	Dragon		1	0	0	R	4	4	1	0	0	0	1	0	0	0	0	0	0	0	Gain +1 Health for each card in your hand.
+Twisting Nether		Warlock	0	1	0	E	8	0	0	0	0	0	0	0	0	0	0	0	0	0	Destroy all minions.
+Unbound Elemental		Shaman	1	0	0	C	3	2	4	0	0	1	0	0	0	0	0	0	0	0	"Whenever you play a card with Overload, gain +1/+1."
+Unleash the Hounds		Hunter	0	1	0	C	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"For each enemy minion, summon a 1/1 Hound with Charge."
+Upgrade!		Warrior	0	1	0	R	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon."
+Vanish		Rogue	0	1	0	B	6	0	0	0	0	0	0	0	0	0	0	0	0	0	Return all minions to their owner's hand.
+Vaporize		Mage	0	1	0	R	3	0	0	0	0	0	0	0	0	0	0	0	0	0	"Secret: When a minion attacks your hero, destroy it."
+Venture Co. Mercenary			1	0	0	C	5	7	6	0	0	1	0	0	0	0	0	0	0	0	Your minions cost (3) more.
+Violet Teacher			1	0	0	R	4	3	5	0	0	1	0	0	0	0	0	0	0	0	"Whenever you cast a spell, summon a 1/1 Violet Apprentice."
+Void Terror	Demon	Warlock	1	0	0	R	3	3	3	0	0	0	1	0	0	0	0	0	0	0	Destroy the minions on either side of this minion and gain their Attack and Health.
+Void Walker	Demon	Warlock	1	0	0	B	1	1	3	0	0	0	0	1	0	0	0	0	0	0	
+Voodoo Doctor			1	0	0	B	1	2	1	0	0	0	1	0	0	0	0	0	0	0	Restore 2 Health.
+War Golem			1	0	0	B	7	7	7	0	0	0	0	0	0	0	0	0	0	0	
+Warsong Commander			1	0	0	B	3	2	3	0	0	1	0	0	0	0	0	0	0	0	"Whenever you summon a minion with 3 or less Attack, give it Charge."
+Water Elemental		Mage	1	0	0	B	4	3	6	0	0	1	0	0	0	0	0	0	0	0	Freeze any character damaged by this minion.
+Whelp	Dragon		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Whirlwind		Warrior	0	1	0	B	1	0	0	0	0	0	0	0	0	0	0	0	0	0	Deal 1 damage to ALL minion.
+Wild Growth		Druid	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Gain an empty Mana Crystal.
+Wild Pyromancer			1	0	0	R	2	3	2	0	0	1	0	0	0	0	0	0	0	0	"After you cast a spell, deal 1 to ALL minions."
+Windfury		Shaman	0	1	0	B	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Give a minion Windfury.
+Windfury Harpy			1	0	0	C	6	4	5	0	0	0	0	0	0	1	0	0	0	0	
+Windspeaker		Shaman	1	0	0	B	4	3	3	0	0	0	1	0	0	0	0	0	0	0	Give a friendly minion Windfury.
+Wisp			1	0	0	C	0	1	1	0	0	0	0	0	0	0	0	0	0	0	
+Wolfrider			1	0	0	B	3	3	1	0	0	0	0	0	0	0	1	0	0	0	
+Worgen Infiltrator			1	0	0	C	1	2	1	0	0	0	0	0	0	0	0	0	0	1	
+Worthless Imp	Demon		1	0	0		0	1	1	0	0	0	0	0	0	0	0	0	1	0	
+Wrath		Druid	0	1	0	C	2	0	0	0	0	0	0	0	0	0	0	0	0	0	Choose One - Deal 3 damage to a minion; or 1 damage and draw a card.
+Young Dragonhawk	Beast		1	0	0	C	1	1	1	0	0	0	0	0	0	1	0	0	0	0	
+Young Priestess			1	0	0	R	1	2	1	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, give another random friendly minion +1 Health."
+Youthful Brewmaster			1	0	0	C	2	3	2	0	0	1	0	0	0	0	0	0	0	0	Return a friendly minion from the battlefield to your hand.
+Ysera	Dragon		1	0	0	L	9	4	12	0	0	1	0	0	0	0	0	0	0	0	"At the end of your turn, draw a Dream Card."
